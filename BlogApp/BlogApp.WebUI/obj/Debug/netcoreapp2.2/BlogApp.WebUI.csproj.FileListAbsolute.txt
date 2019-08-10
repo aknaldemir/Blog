@@ -1,0 +1,109 @@
+E:\Kodlama\Web Geliştirme\Sadık Turan\Back-End\1-Komple Uygulama Eğitim\0-files\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp2.2\BlogApp.WebUI.deps.json
+E:\Kodlama\Web Geliştirme\Sadık Turan\Back-End\1-Komple Uygulama Eğitim\0-files\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp2.2\BlogApp.WebUI.runtimeconfig.json
+E:\Kodlama\Web Geliştirme\Sadık Turan\Back-End\1-Komple Uygulama Eğitim\0-files\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp2.2\BlogApp.WebUI.runtimeconfig.dev.json
+E:\Kodlama\Web Geliştirme\Sadık Turan\Back-End\1-Komple Uygulama Eğitim\0-files\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp2.2\BlogApp.WebUI.dll
+E:\Kodlama\Web Geliştirme\Sadık Turan\Back-End\1-Komple Uygulama Eğitim\0-files\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.2\BlogApp.WebUI.csprojAssemblyReference.cache
+E:\Kodlama\Web Geliştirme\Sadık Turan\Back-End\1-Komple Uygulama Eğitim\0-files\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.2\BlogApp.WebUI.csproj.CoreCompileInputs.cache
+E:\Kodlama\Web Geliştirme\Sadık Turan\Back-End\1-Komple Uygulama Eğitim\0-files\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.2\BlogApp.WebUI.RazorAssemblyInfo.cache
+E:\Kodlama\Web Geliştirme\Sadık Turan\Back-End\1-Komple Uygulama Eğitim\0-files\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.2\BlogApp.WebUI.RazorAssemblyInfo.cs
+E:\Kodlama\Web Geliştirme\Sadık Turan\Back-End\1-Komple Uygulama Eğitim\0-files\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.2\BlogApp.WebUI.AssemblyInfoInputs.cache
+E:\Kodlama\Web Geliştirme\Sadık Turan\Back-End\1-Komple Uygulama Eğitim\0-files\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.2\BlogApp.WebUI.AssemblyInfo.cs
+E:\Kodlama\Web Geliştirme\Sadık Turan\Back-End\1-Komple Uygulama Eğitim\0-files\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.2\BlogApp.WebUI.TagHelpers.input.cache
+E:\Kodlama\Web Geliştirme\Sadık Turan\Back-End\1-Komple Uygulama Eğitim\0-files\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.2\BlogApp.WebUI.TagHelpers.output.cache
+E:\Kodlama\Web Geliştirme\Sadık Turan\Back-End\1-Komple Uygulama Eğitim\0-files\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.2\BlogApp.WebUI.RazorCoreGenerate.cache
+E:\Kodlama\Web Geliştirme\Sadık Turan\Back-End\1-Komple Uygulama Eğitim\0-files\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+E:\Kodlama\Web Geliştirme\Sadık Turan\Back-End\1-Komple Uygulama Eğitim\0-files\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+E:\Kodlama\Web Geliştirme\Sadık Turan\Back-End\1-Komple Uygulama Eğitim\0-files\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.2\BlogApp.WebUI.RazorTargetAssemblyInfo.cache
+E:\Kodlama\Web Geliştirme\Sadık Turan\Back-End\1-Komple Uygulama Eğitim\0-files\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.2\BlogApp.WebUI.RazorTargetAssemblyInfo.cs
+E:\Kodlama\Web Geliştirme\Sadık Turan\Back-End\1-Komple Uygulama Eğitim\0-files\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.2\BlogApp.WebUI.dll
+E:\Kodlama\Web Geliştirme\Sadık Turan\Back-End\1-Komple Uygulama Eğitim\0-files\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.2\BlogApp.WebUI.pdb
+E:\Kodlama\Web Geliştirme\Sadık Turan\Back-End\1-Komple Uygulama Eğitim\0-files\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp2.2\BlogApp.WebUI.pdb
+E:\Kodlama\Web Geliştirme\Sadık Turan\Back-End\1-Komple Uygulama Eğitim\0-files\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp2.2\BlogApp.WebUI.Views.dll
+E:\Kodlama\Web Geliştirme\Sadık Turan\Back-End\1-Komple Uygulama Eğitim\0-files\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp2.2\BlogApp.WebUI.Views.pdb
+E:\Kodlama\Web Geliştirme\Sadık Turan\Back-End\1-Komple Uygulama Eğitim\0-files\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.2\BlogApp.WebUI.Views.pdb
+E:\Kodlama\Web Geliştirme\Sadık Turan\Back-End\1-Komple Uygulama Eğitim\0-files\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.2\BlogApp.WebUI.csproj.CopyComplete
+E:\Kodlama\Web Geliştirme\Sadık Turan\Back-End\1-Komple Uygulama Eğitim\0-files\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\Kodlama\Web Geliştirme\Sadık Turan\Back-End\1-Komple Uygulama Eğitim\0-files\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+E:\Kodlama\Web Geliştirme\Sadık Turan\Back-End\1-Komple Uygulama Eğitim\0-files\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Home\Details.g.cshtml.cs
+E:\Kodlama\Web Geliştirme\Sadık Turan\Back-End\1-Komple Uygulama Eğitim\0-files\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Home\List.g.cshtml.cs
+E:\Kodlama\Web Geliştirme\Sadık Turan\Back-End\1-Komple Uygulama Eğitim\0-files\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp2.2\BlogApp.Data.dll
+E:\Kodlama\Web Geliştirme\Sadık Turan\Back-End\1-Komple Uygulama Eğitim\0-files\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp2.2\BlogApp.Entity.dll
+E:\Kodlama\Web Geliştirme\Sadık Turan\Back-End\1-Komple Uygulama Eğitim\0-files\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp2.2\BlogApp.Data.pdb
+E:\Kodlama\Web Geliştirme\Sadık Turan\Back-End\1-Komple Uygulama Eğitim\0-files\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp2.2\BlogApp.Entity.pdb
+E:\Kodlama\Web Geliştirme\Sadık Turan\Back-End\1-Komple Uygulama Eğitim\0-files\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Blog\List.g.cshtml.cs
+E:\Kodlama\Web Geliştirme\Sadık Turan\Back-End\1-Komple Uygulama Eğitim\0-files\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Blog\AddorUpdate.g.cshtml.cs
+E:\Kodlama\Web Geliştirme\Sadık Turan\Back-End\1-Komple Uygulama Eğitim\0-files\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Category\AddOrUpdate.g.cshtml.cs
+E:\Kodlama\Web Geliştirme\Sadık Turan\Back-End\1-Komple Uygulama Eğitim\0-files\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Blog\Delete.g.cshtml.cs
+E:\Kodlama\Web Geliştirme\Sadık Turan\Back-End\1-Komple Uygulama Eğitim\0-files\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Category\Delete.g.cshtml.cs
+E:\Kodlama\Web Geliştirme\Sadık Turan\Back-End\1-Komple Uygulama Eğitim\0-files\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\CategoryMenu\Default.g.cshtml.cs
+E:\Kodlama\Web Geliştirme\Sadık Turan\Back-End\1-Komple Uygulama Eğitim\0-files\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_BlogList.g.cshtml.cs
+E:\Kodlama\Web Geliştirme\Sadık Turan\Back-End\1-Komple Uygulama Eğitim\0-files\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_AdminLayout.g.cshtml.cs
+E:\Kodlama\Web Geliştirme\Sadık Turan\Back-End\1-Komple Uygulama Eğitim\0-files\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_SearchBox.g.cshtml.cs
+E:\Kodlama\Web Geliştirme\Sadık Turan\Back-End\1-Komple Uygulama Eğitim\0-files\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Slider.g.cshtml.cs
+E:\Kodlama\Web Geliştirme\Sadık Turan\Back-End\1-Komple Uygulama Eğitim\0-files\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Blog\Index.g.cshtml.cs
+E:\Kodlama\Web Geliştirme\Sadık Turan\Back-End\1-Komple Uygulama Eğitim\0-files\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Blog\Create.g.cshtml.cs
+E:\Kodlama\Web Geliştirme\Sadık Turan\Back-End\1-Komple Uygulama Eğitim\0-files\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Blog\Edit.g.cshtml.cs
+E:\Kodlama\Web Geliştirme\Sadık Turan\Back-End\1-Komple Uygulama Eğitim\0-files\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Admin\Index.g.cshtml.cs
+E:\Kodlama\Web Geliştirme\Sadık Turan\Back-End\1-Komple Uygulama Eğitim\0-files\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Admin\Create.g.cshtml.cs
+E:\Kodlama\Web Geliştirme\Sadık Turan\Back-End\1-Komple Uygulama Eğitim\0-files\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Admin\Update.g.cshtml.cs
+E:\Kodlama\Web Geliştirme\Sadık Turan\Back-End\1-Komple Uygulama Eğitim\0-files\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.g.cshtml.cs
+E:\Kodlama\Web Geliştirme\Sadık Turan\Back-End\1-Komple Uygulama Eğitim\0-files\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\AdminRole\Index.g.cshtml.cs
+E:\Kodlama\Web Geliştirme\Sadık Turan\Back-End\1-Komple Uygulama Eğitim\0-files\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\AdminRole\Create.g.cshtml.cs
+E:\Kodlama\Web Geliştirme\Sadık Turan\Back-End\1-Komple Uygulama Eğitim\0-files\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\AdminRole\Edit.g.cshtml.cs
+E:\Kodlama\Web Geliştirme\Sadık Turan\Back-End\1-Komple Uygulama Eğitim\0-files\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Account\AccessDenied.g.cshtml.cs
+E:\Kodlama\Web Geliştirme\Sadık Turan\Back-End\1-Komple Uygulama Eğitim\0-files\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Category\Index.g.cshtml.cs
+E:\Kodlama\Proje\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp2.2\BlogApp.WebUI.deps.json
+E:\Kodlama\Proje\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp2.2\BlogApp.WebUI.runtimeconfig.json
+E:\Kodlama\Proje\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp2.2\BlogApp.WebUI.runtimeconfig.dev.json
+E:\Kodlama\Proje\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp2.2\BlogApp.WebUI.dll
+E:\Kodlama\Proje\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp2.2\BlogApp.WebUI.pdb
+E:\Kodlama\Proje\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp2.2\BlogApp.WebUI.Views.dll
+E:\Kodlama\Proje\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp2.2\BlogApp.WebUI.Views.pdb
+E:\Kodlama\Proje\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp2.2\BlogApp.Data.dll
+E:\Kodlama\Proje\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp2.2\BlogApp.Entity.dll
+E:\Kodlama\Proje\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp2.2\BlogApp.Data.pdb
+E:\Kodlama\Proje\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp2.2\BlogApp.Entity.pdb
+E:\Kodlama\Proje\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.2\BlogApp.WebUI.csprojAssemblyReference.cache
+E:\Kodlama\Proje\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.2\BlogApp.WebUI.csproj.CoreCompileInputs.cache
+E:\Kodlama\Proje\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.2\BlogApp.WebUI.RazorAssemblyInfo.cache
+E:\Kodlama\Proje\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.2\BlogApp.WebUI.RazorAssemblyInfo.cs
+E:\Kodlama\Proje\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.2\BlogApp.WebUI.AssemblyInfoInputs.cache
+E:\Kodlama\Proje\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.2\BlogApp.WebUI.AssemblyInfo.cs
+E:\Kodlama\Proje\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.2\BlogApp.WebUI.TagHelpers.input.cache
+E:\Kodlama\Proje\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.2\BlogApp.WebUI.TagHelpers.output.cache
+E:\Kodlama\Proje\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.2\BlogApp.WebUI.RazorCoreGenerate.cache
+E:\Kodlama\Proje\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Account\AccessDenied.g.cshtml.cs
+E:\Kodlama\Proje\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.g.cshtml.cs
+E:\Kodlama\Proje\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\AdminRole\Create.g.cshtml.cs
+E:\Kodlama\Proje\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\AdminRole\Edit.g.cshtml.cs
+E:\Kodlama\Proje\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\AdminRole\Index.g.cshtml.cs
+E:\Kodlama\Proje\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Blog\AddorUpdate.g.cshtml.cs
+E:\Kodlama\Proje\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Blog\Create.g.cshtml.cs
+E:\Kodlama\Proje\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Blog\Delete.g.cshtml.cs
+E:\Kodlama\Proje\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Blog\Edit.g.cshtml.cs
+E:\Kodlama\Proje\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Blog\Index.g.cshtml.cs
+E:\Kodlama\Proje\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Blog\List.g.cshtml.cs
+E:\Kodlama\Proje\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Category\AddOrUpdate.g.cshtml.cs
+E:\Kodlama\Proje\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Category\Delete.g.cshtml.cs
+E:\Kodlama\Proje\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Category\Index.g.cshtml.cs
+E:\Kodlama\Proje\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Home\Details.g.cshtml.cs
+E:\Kodlama\Proje\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+E:\Kodlama\Proje\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Home\List.g.cshtml.cs
+E:\Kodlama\Proje\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\CategoryMenu\Default.g.cshtml.cs
+E:\Kodlama\Proje\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_AdminLayout.g.cshtml.cs
+E:\Kodlama\Proje\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_BlogList.g.cshtml.cs
+E:\Kodlama\Proje\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\Kodlama\Proje\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_SearchBox.g.cshtml.cs
+E:\Kodlama\Proje\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Slider.g.cshtml.cs
+E:\Kodlama\Proje\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+E:\Kodlama\Proje\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+E:\Kodlama\Proje\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.2\BlogApp.WebUI.RazorTargetAssemblyInfo.cache
+E:\Kodlama\Proje\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.2\BlogApp.WebUI.RazorTargetAssemblyInfo.cs
+E:\Kodlama\Proje\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.2\BlogApp.WebUI.Views.pdb
+E:\Kodlama\Proje\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.2\BlogApp.WebUI.csproj.CopyComplete
+E:\Kodlama\Proje\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.2\BlogApp.WebUI.dll
+E:\Kodlama\Proje\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.2\BlogApp.WebUI.pdb
+E:\Kodlama\Proje\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Account\Register.g.cshtml.cs
+E:\Kodlama\Proje\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Account\Admin\Create.g.cshtml.cs
+E:\Kodlama\Proje\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Account\Admin\Index.g.cshtml.cs
+E:\Kodlama\Proje\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Account\Admin\Update.g.cshtml.cs

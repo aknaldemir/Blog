@@ -1,0 +1,75 @@
+﻿
+@model RegisterModel
+@{
+    ViewData["Title"] = "Register";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm-9 col-md-7 col-lg-5 mx-auto">
+            <div class="card card-signin my-5">
+                <div class="card-body">
+                    <h5 class="card-title text-center">Sign Up</h5>
+                    <div class="text-danger" asp-validation-summary="All"></div>
+                    <form asp-action="Register" asp-controller="Account" method="post" class="form-signin"> 
+                        <div class="form-label-group">
+                            <input name="username" type="text" id="username" class="form-control" placeholder="Username" required autofocus>
+                            <label for="username">Username</label>
+                        </div> 
+                        
+                        <div class="form-label-group">
+                            <input name="Email" type="email" id="inputEmail" class="form-control" placeholder="Email address" required autofocus>
+                            <label for="inputEmail">Email address</label>
+                        </div>
+
+                        <div class="form-label-group">
+                            <input type="password" name="Password" id="inputPassword" class="form-control" placeholder="Password" required>
+                            <label for="inputPassword">Password</label>
+                        </div>
+
+                        <div class="custom-control custom-checkbox mb-3">
+                            <input type="checkbox" class="custom-control-input" id="customCheck1">
+                            <label class="custom-control-label" for="customCheck1">Remember password</label>
+                        </div>
+                        <button class="btn btn-lg btn-primary btn-block text-uppercase" type="submit">Sign Up</button>
+                        <hr class="my-4">
+                       
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+@*<div class="bg-primary text-white p-1 m-1">
+    <h2>Register</h2>
+</div>
+
+<form class="m-1 p-1" asp-action="Register" asp-controller="Account" method="post">
+    <div class="text-danger" asp-validation-summary="All"></div>
+    <div class="form-group">
+        <label asp-for="UserName"></label>
+        <input asp-for="UserName" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Password"></label>
+        <input asp-for="Password" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Email"></label>
+        <input asp-for="Email" class="form-control" />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Register</button>
+    <a asp-action="Index" asp-controller="Home" class="btn btn-danger">Cancel</a>
+
+</form>*@
+

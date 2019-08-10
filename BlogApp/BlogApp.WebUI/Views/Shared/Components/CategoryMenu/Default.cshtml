@@ -1,0 +1,17 @@
+﻿@model IQueryable<BlogApp.Entity.Category>
+ 
+
+
+<div class="list-group d-flex flex-md-column">
+    @foreach (var item in Model)
+    {
+
+        <a asp-controller="Blog"
+           asp-action="Index"
+           asp-route-id="@item.CategoryId"
+           class="list-group-item list-group-item-action bg-dark text-light text-center rounded-0 @(ViewBag.SelectedCategory==item.CategoryId.ToString()?"active":"")">
+            @item.Name
+        </a>
+    }
+
+</div>

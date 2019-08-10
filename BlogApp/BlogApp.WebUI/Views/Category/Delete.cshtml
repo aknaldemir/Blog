@@ -1,0 +1,15 @@
+﻿@model Category
+@{
+    ViewData["Title"] = "Delete";
+    Layout = "_AdminLayout";
+}
+
+<h1>
+    <b> @Model.Name</b> isimli kaydı silmek istediğinizden emin misiniz?
+</h1>   
+<form asp-controller="Category" asp-action="Delete" method="post">
+    <input type="hidden" asp-for="CategoryId" />
+    <button type="submit" class="btn btn-primary">Delete</button>
+
+</form>
+

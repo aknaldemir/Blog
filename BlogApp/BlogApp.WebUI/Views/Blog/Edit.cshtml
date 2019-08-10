@@ -1,0 +1,148 @@
+﻿@model Blog
+@{
+
+    Layout = "_AdminLayout";
+}
+
+@section scripts{
+
+    <script src="~/modules/ckeditor/ckeditor.js"></script>
+    <script>
+        CKEDITOR.replace("Body"); 
+        CKEDITOR.config.extraPlugins = "autogrow";
+        CKEDITOR.config.autoGrow_minHeight = 250;
+        CKEDITOR.config.autoGrow_maxHeight = 600;
+    </script>
+}
+
+<div class="container mt-3">
+    <h2>Edit Blog</h2> 
+    <form asp-controller="Blog" asp-action="Edit" method="post" enctype="multipart/form-data">
+        <input name="BlogId" type="hidden" value="@(Model?.BlogId)" />
+        <input type="hidden" asp-for="Image" />
+        <div class="accordion" id="accordionExample">
+            <div class="card">
+                <div class="card-header" id="headingOne">
+                    <h2 class="mb-0">
+                        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTitle" aria-expanded="false" aria-controls="collapseTitle">
+                            <label asp-for="Title"></label>
+                        </button>
+                    </h2>
+                </div>
+
+                <div id="collapseTitle" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample" style="">
+                    <div class="card-body">
+                        <div class="form-group">
+                            
+                            <input asp-for="Title" class="form-control" />
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="card">
+                <div class="card-header" id="headingTwo">
+                    <h2 class="mb-0">
+                        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseDescription" aria-expanded="false" aria-controls="collapseDescription">
+                            <label asp-for="Description"></label>
+                        </button>
+                    </h2>
+                </div>
+                <div id="collapseDescription" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample" style="">
+                    <div class="card-body">
+                        <div class="form-group">
+                            <textarea asp-for="Description" class="form-control"></textarea>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="card">
+                <div class="card-header" id="headingThree">
+                    <h2 class="mb-0">
+                        <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseBody" aria-expanded="true" aria-controls="collapseBody">
+                            <label asp-for="Body"></label>
+                        </button>
+                    </h2>
+                </div>
+                <div id="collapseBody" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample" style="">
+                    <div class="card-body">
+                        <div class="form-group">
+                           
+                            <textarea asp-for="Body" class="form-control"></textarea>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="card">
+                <div class="card-header" id="headingThree">
+                    <h2 class="mb-0">
+                        <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseImage" aria-expanded="true" aria-controls="collapseImage">
+                            Image
+                        </button>
+                    </h2>
+                </div>
+                <div id="collapseImage" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample" style="">
+                    <div class="card-body">
+                        <div class="form-group">
+                            <img src="~/img/@Model.Image" width="120px" alt="@Model.Title" />
+                            <input type="file" name="file" id="file" class="form-control" />
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="card">
+                <div class="card-header" id="headingThree">
+                    <h2 class="mb-0">
+                        <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseState" aria-expanded="true" aria-controls="collapseState">
+                            Blog State
+                        </button>
+                    </h2>
+                </div>
+                <div id="collapseState" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample" style="">
+                    <div class="card-body">
+                        <div class="form-check">
+                            <input class="form-check-input" asp-for="IsHome">
+                            <label class="form-check-label" asp-for="IsHome">
+                                is Home
+                            </label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" asp-for="IsApproved">
+                            <label class="form-check-label" asp-for="IsApproved">
+                                is Approved
+                            </label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" asp-for="IsSlider">
+                            <label class="form-check-label" asp-for="IsSlider">
+                                is Slider
+                            </label>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="card">
+                <div class="card-header" id="headingOne">
+                    <h2 class="mb-0">
+                        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseCategory" aria-expanded="false" aria-controls="collapseCategory">
+                            Select Category
+                        </button>
+                    </h2>
+                </div>
+
+                <div id="collapseCategory" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample" style="">
+                    <div class="card-body">
+                        <div class="form-group">
+                            <select asp-for="CategoryId" asp-items="ViewBag.Categories" class="form-control">
+                                <option disabled>Select Category</option>
+                            </select>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div> 
+
+        <input type="submit" value="Edit" class="btn btn-primary" />
+    </form>
+</div>
+
+

@@ -1,0 +1,40 @@
+E:\Kodlama\Web Geliştirme\Sadık Turan\Back-End\1-Komple Uygulama Eğitim\0-files\BlogApp\BlogApp.Data\bin\Debug\netcoreapp2.2\BlogApp.Data.deps.json
+E:\Kodlama\Web Geliştirme\Sadık Turan\Back-End\1-Komple Uygulama Eğitim\0-files\BlogApp\BlogApp.Data\bin\Debug\netcoreapp2.2\BlogApp.Data.dll
+E:\Kodlama\Web Geliştirme\Sadık Turan\Back-End\1-Komple Uygulama Eğitim\0-files\BlogApp\BlogApp.Data\bin\Debug\netcoreapp2.2\BlogApp.Data.pdb
+E:\Kodlama\Web Geliştirme\Sadık Turan\Back-End\1-Komple Uygulama Eğitim\0-files\BlogApp\BlogApp.Data\obj\Debug\netcoreapp2.2\BlogApp.Data.csprojAssemblyReference.cache
+E:\Kodlama\Web Geliştirme\Sadık Turan\Back-End\1-Komple Uygulama Eğitim\0-files\BlogApp\BlogApp.Data\obj\Debug\netcoreapp2.2\BlogApp.Data.csproj.CoreCompileInputs.cache
+E:\Kodlama\Web Geliştirme\Sadık Turan\Back-End\1-Komple Uygulama Eğitim\0-files\BlogApp\BlogApp.Data\obj\Debug\netcoreapp2.2\BlogApp.Data.AssemblyInfoInputs.cache
+E:\Kodlama\Web Geliştirme\Sadık Turan\Back-End\1-Komple Uygulama Eğitim\0-files\BlogApp\BlogApp.Data\obj\Debug\netcoreapp2.2\BlogApp.Data.AssemblyInfo.cs
+E:\Kodlama\Web Geliştirme\Sadık Turan\Back-End\1-Komple Uygulama Eğitim\0-files\BlogApp\BlogApp.Data\obj\Debug\netcoreapp2.2\BlogApp.Data.dll
+E:\Kodlama\Web Geliştirme\Sadık Turan\Back-End\1-Komple Uygulama Eğitim\0-files\BlogApp\BlogApp.Data\obj\Debug\netcoreapp2.2\BlogApp.Data.pdb
+E:\Kodlama\Web Geliştirme\Sadık Turan\Back-End\1-Komple Uygulama Eğitim\0-files\BlogApp\BlogApp.Data\bin\Debug\netcoreapp2.2\BlogApp.Entity.dll
+E:\Kodlama\Web Geliştirme\Sadık Turan\Back-End\1-Komple Uygulama Eğitim\0-files\BlogApp\BlogApp.Data\bin\Debug\netcoreapp2.2\BlogApp.Entity.pdb
+E:\Kodlama\Web Geliştirme\Sadık Turan\Back-End\1-Komple Uygulama Eğitim\0-files\BlogApp\BlogApp.Data\obj\Debug\netcoreapp2.2\BlogApp.Data.csproj.CopyComplete
+E:\Kodlama\Web Geliştirme\Sadık Turan\Back-End\1-Komple Uygulama Eğitim\0-files\BlogApp\BlogApp.Data\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\Kodlama\Web Geliştirme\Sadık Turan\Back-End\1-Komple Uygulama Eğitim\0-files\BlogApp\BlogApp.Data\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Http.Abstractions.xml
+E:\Kodlama\Web Geliştirme\Sadık Turan\Back-End\1-Komple Uygulama Eğitim\0-files\BlogApp\BlogApp.Data\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Mvc.Core.dll
+E:\Kodlama\Web Geliştirme\Sadık Turan\Back-End\1-Komple Uygulama Eğitim\0-files\BlogApp\BlogApp.Data\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Mvc.Core.xml
+E:\Kodlama\Web Geliştirme\Sadık Turan\Back-End\1-Komple Uygulama Eğitim\0-files\BlogApp\BlogApp.Data\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Kodlama\Web Geliştirme\Sadık Turan\Back-End\1-Komple Uygulama Eğitim\0-files\BlogApp\BlogApp.Data\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Identity.EntityFrameworkCore.xml
+E:\Kodlama\Web Geliştirme\Sadık Turan\Back-End\1-Komple Uygulama Eğitim\0-files\BlogApp\BlogApp.Data\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Razor.dll
+E:\Kodlama\Web Geliştirme\Sadık Turan\Back-End\1-Komple Uygulama Eğitim\0-files\BlogApp\BlogApp.Data\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Razor.xml
+E:\Kodlama\Proje\BlogApp\BlogApp.Data\bin\Debug\netcoreapp2.2\BlogApp.Data.deps.json
+E:\Kodlama\Proje\BlogApp\BlogApp.Data\bin\Debug\netcoreapp2.2\BlogApp.Data.dll
+E:\Kodlama\Proje\BlogApp\BlogApp.Data\bin\Debug\netcoreapp2.2\BlogApp.Data.pdb
+E:\Kodlama\Proje\BlogApp\BlogApp.Data\bin\Debug\netcoreapp2.2\BlogApp.Entity.dll
+E:\Kodlama\Proje\BlogApp\BlogApp.Data\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\Kodlama\Proje\BlogApp\BlogApp.Data\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Kodlama\Proje\BlogApp\BlogApp.Data\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Mvc.Core.dll
+E:\Kodlama\Proje\BlogApp\BlogApp.Data\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Razor.dll
+E:\Kodlama\Proje\BlogApp\BlogApp.Data\bin\Debug\netcoreapp2.2\BlogApp.Entity.pdb
+E:\Kodlama\Proje\BlogApp\BlogApp.Data\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Http.Abstractions.xml
+E:\Kodlama\Proje\BlogApp\BlogApp.Data\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Identity.EntityFrameworkCore.xml
+E:\Kodlama\Proje\BlogApp\BlogApp.Data\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Mvc.Core.xml
+E:\Kodlama\Proje\BlogApp\BlogApp.Data\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Razor.xml
+E:\Kodlama\Proje\BlogApp\BlogApp.Data\obj\Debug\netcoreapp2.2\BlogApp.Data.csprojAssemblyReference.cache
+E:\Kodlama\Proje\BlogApp\BlogApp.Data\obj\Debug\netcoreapp2.2\BlogApp.Data.csproj.CoreCompileInputs.cache
+E:\Kodlama\Proje\BlogApp\BlogApp.Data\obj\Debug\netcoreapp2.2\BlogApp.Data.AssemblyInfoInputs.cache
+E:\Kodlama\Proje\BlogApp\BlogApp.Data\obj\Debug\netcoreapp2.2\BlogApp.Data.AssemblyInfo.cs
+E:\Kodlama\Proje\BlogApp\BlogApp.Data\obj\Debug\netcoreapp2.2\BlogApp.Data.csproj.CopyComplete
+E:\Kodlama\Proje\BlogApp\BlogApp.Data\obj\Debug\netcoreapp2.2\BlogApp.Data.dll
+E:\Kodlama\Proje\BlogApp\BlogApp.Data\obj\Debug\netcoreapp2.2\BlogApp.Data.pdb

@@ -1,0 +1,53 @@
+﻿@model Blog
+@{
+
+    Layout = "_AdminLayout";
+}
+
+<div class="container mt-3">
+    <h2>Edit Blog</h2>
+    <form method="post">
+        <input name="BlogId" type="hidden" value="@(Model?.BlogId)" />
+        <div class="form-group">
+            <label asp-for="Title"></label>
+            <input asp-for="Title" class="form-control" />
+        </div>
+        <div class="form-group">
+            <label asp-for="Description"></label>
+            <textarea asp-for="Description" class="form-control"></textarea>
+        </div>
+        <div class="form-group">
+            <label asp-for="Body"></label>
+            <textarea asp-for="Body" class="form-control"></textarea>
+        </div>
+        <div class="form-group">
+            <label asp-for="Image"></label>
+            <input asp-for="Image" class="form-control" />
+        </div>
+        <div class="form-check">
+            <input class="form-check-input" asp-for="IsHome">
+            <label class="form-check-label" asp-for="IsHome">
+                is Home
+            </label>
+        </div>
+        <div class="form-check">
+            <input class="form-check-input" asp-for="IsApproved">
+            <label class="form-check-label" asp-for="IsApproved">
+                is Approved
+            </label>
+        </div> 
+        <div class="form-check">
+            <input class="form-check-input" asp-for="IsSlider">
+            <label class="form-check-label" asp-for="IsSlider">
+                is Slider
+            </label>
+        </div>
+        <div class="form-group">
+            <label asp-for="CategoryId"></label>
+            <select asp-for="CategoryId" asp-items="ViewBag.Categories" class="form-control">
+                <option disabled>Select Category</option>
+            </select>
+        </div>
+        <input type="submit" value="Edit" class="btn btn-primary" />
+    </form>
+</div>
